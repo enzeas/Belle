@@ -1,3 +1,4 @@
 
 *.tgz
 tensorflow/in_action/simple-examples/*
+statistical_learning/*.png
