@@ -1,3 +1,6 @@
 [submodule "tensorflow/in_action/models"]
 	path = tensorflow/in_action/models
 	url = https://github.com/tensorflow/models.git
+[submodule "tensorflow/TensorFlow-Examples"]
+	path = tensorflow/TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples
